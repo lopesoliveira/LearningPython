@@ -11,6 +11,11 @@
       "program": "${file}",
       "console": "integratedTerminal",
       "justMyCode": true
+    },
+    {
+      "name": "Local Process with Kubernetes",
+      "type": "local-process-with-kubernetes.configuration",
+      "request": "launch"
     }
   ]
 }
